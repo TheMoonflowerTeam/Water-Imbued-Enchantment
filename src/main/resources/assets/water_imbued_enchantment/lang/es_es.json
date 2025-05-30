@@ -1,0 +1,15 @@
+{
+  "enchantment.water_imbued_enchantment.water_imbued":  "Imbuido en Agua",
+  "enchantment.water_imbued_enchantment.thunder_imbued": "Imbuido en Trueno",
+  "water_imbued_enchantment.midnightconfig.title":"Configuración de Water Imbued Enchantment",
+  "water_imbued_enchantment.midnightconfig.water_comment":"\uD83C\uDF0A Encantamiento Imbuido en Agua \uD83C\uDF0A",
+  "water_imbued_enchantment.midnightconfig.water_mending_compatible":"    ▶ Es compatible con reparación",
+  "water_imbued_enchantment.midnightconfig.water_villagers_trade":"    ▶ Es comerciado por aldeanos",
+  "water_imbued_enchantment.midnightconfig.water_treasure_chests":"    ▶ Puede aparecer en cofres del tesoro",
+  "water_imbued_enchantment.midnightconfig.water_enchanting_table":"    ▶ Está disponible en la mesa de encantamientos",
+  "water_imbued_enchantment.midnightconfig.thunder_comment":"⚡ Encantamiento Imbuido en Trueno ⚡",
+  "water_imbued_enchantment.midnightconfig.thunder_mending_compatible":"    ▶ Es compatible con reparación",
+  "water_imbued_enchantment.midnightconfig.thunder_villagers_trade":"    ▶ Es comerciado por aldeanos",
+  "water_imbued_enchantment.midnightconfig.thunder_treasure_chests":"    ▶ Puede aparecer en cofres del tesoro",
+  "water_imbued_enchantment.midnightconfig.thunder_enchanting_table":"    ▶ Está disponible en la mesa de encantamientos"
+}
