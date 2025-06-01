@@ -1,0 +1,15 @@
+{
+  "enchantment.water_imbued_enchantment.water_imbued":  "Water Imbued",
+  "enchantment.water_imbued_enchantment.thunder_imbued": "Thunder Imbued",
+  "water_imbued_enchantment.midnightconfig.title":"Water Imbued Enchantment Configuration",
+  "water_imbued_enchantment.midnightconfig.water_comment":"\uD83C\uDF0A Water Imbued Enchantment \uD83C\uDF0A",
+  "water_imbued_enchantment.midnightconfig.water_mending_compatible":"    ▶ Is compatible with mending",
+  "water_imbued_enchantment.midnightconfig.water_villagers_trade":"    ▶ Villagers can trade it",
+  "water_imbued_enchantment.midnightconfig.water_treasure_chests":"    ▶ Can spawn in treasure chests",
+  "water_imbued_enchantment.midnightconfig.water_enchanting_table":"    ▶ Is available in the enchanting table",
+  "water_imbued_enchantment.midnightconfig.thunder_comment":"⚡ Thunder Imbued Enchantment ⚡",
+  "water_imbued_enchantment.midnightconfig.thunder_mending_compatible":"    ▶ Is compatible with mending",
+  "water_imbued_enchantment.midnightconfig.thunder_villagers_trade":"    ▶ Villagers can trade it",
+  "water_imbued_enchantment.midnightconfig.thunder_treasure_chests":"    ▶ Can spawn in treasure chests",
+  "water_imbued_enchantment.midnightconfig.thunder_enchanting_table":"    ▶ Is available in the enchanting table"
+}
