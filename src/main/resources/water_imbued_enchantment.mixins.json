@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "net.moonflower.waterimbuedenchantmentmod.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"TridentEntityMixin",
+		"TridentItemMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
